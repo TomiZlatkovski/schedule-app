@@ -1,0 +1,13 @@
+.sidebar{
+    display: inline-block;
+    background-color: #19376D;
+    width: 18.23vw;
+    height: 100vh;
+    justify-content: center;
+}
+
+.header{
+    font-size: 2em;
+    word-wrap: break-word;
+    
+}

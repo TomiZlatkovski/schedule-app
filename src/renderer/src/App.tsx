@@ -1,7 +1,12 @@
+import Home from "./Home"
+import Sidebar from "./Sidebar"
+
+
 function App(): JSX.Element {
   return (
-    <div>
-      <h1>Password Manager App!</h1>
+    <div className="container">
+      <Sidebar />
+      <Home />
     </div>
   )
 }

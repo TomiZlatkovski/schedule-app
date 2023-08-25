@@ -1,0 +1,18 @@
+.home{
+    display: inline-block;
+    width: 81.77vw;
+    height: 100vh;
+    justify-content: center;
+}
+
+.customDay{
+    margin-top: 0.5em;
+    text-align: center;
+    font-size: 3.33vw;
+}
+
+.date{
+    text-align: center;
+    margin: 0;
+    font-size: 2.083vw;
+}
